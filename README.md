@@ -1,3 +1,3 @@
 # CodeAlpha_Project_SFTA
 
-SFTP for Code Alpha Task 02
+SFTA for Code Alpha Task 02
