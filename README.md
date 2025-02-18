@@ -1,2 +1,3 @@
-# CodeAlpha_Project_SFTP
+# CodeAlpha_Project_SFTA
+
 SFTP for Code Alpha Task 02
