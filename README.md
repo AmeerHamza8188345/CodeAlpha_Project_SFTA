@@ -1,6 +1,6 @@
 
 
-
+**Code Alpha Project (Task 02)**
 
 # Secure File Transfer Application
 
@@ -44,9 +44,7 @@ This project is a **Secure File Transfer Application** designed to provide a sec
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/secure-file-transfer.git
-    cd secure-file-transfer
-    ```
+   git clone https://github.com/AmeerHamza8188345/CodeAlpha_Project_SFTA.git
 
 2. **Install dependencies**:
     ```bash
